@@ -7,7 +7,7 @@ Student
 First-year Computer Science student
 
 * 🌍  I'm based in Sweden
-* 🧠  I'm learning Data Structures & Algorithms
+* 🧠  I'm Computer Science
 
 ### Skills
 
