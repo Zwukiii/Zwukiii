@@ -5,7 +5,7 @@ I am a first-year Computer Science student with a keen interest in coding, machi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Sweden
-* 🧠  I'm learning Java
+* 🧠  Currently learning Spring Boot
 
 ### Skills
 
