@@ -1,4 +1,4 @@
-Hi 👋 My name is Alen Smlatic
+Hi 👋 My name is Alen
 =============================
 
 I am a first-year Computer Science student with a keen interest in coding, machine learning, and developing robust applications. Eager to expand my knowledge and expertise.
